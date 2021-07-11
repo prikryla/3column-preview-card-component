@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/prikryla/3column-preview-card-component
+- Solution URL: https://prikryla.github.io/3column-preview-card-component/
 
 ## My process
 
